@@ -1,0 +1,32 @@
+html {
+	margin: 0px;
+}
+
+body {
+	background-color: #010101;
+	width: 100%;
+	height: 100%;
+}
+
+article {
+	background-color: #AAAAAA;
+	border: 1px solid #F0F0F0;
+	padding: 5px;
+	margin-top: 200px;
+}
+
+label {
+	font-size: 0.7rem;
+	font-style: italic;
+}
+
+textarea {
+	margin-bottom: 1rem;
+}
+
+.center-items {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	flex-direction: column;
+}
